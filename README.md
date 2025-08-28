@@ -1,4 +1,4 @@
 # pet-api
-API para gerenciamento de pets
+API para gerenciamento de PETS
 
-praticando frameworks backend
+Praticando framerworks Backend.
